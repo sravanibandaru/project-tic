@@ -1,0 +1,49 @@
+body{
+    width: auto;
+background-color: azure;
+margin-top: 30px;
+}
+.sec-1 .data-nav{
+    margin-left: 630px;
+    
+    
+}
+.sec-1 img{
+    margin-right: 20px;
+} 
+.sec-2 .container .row{
+    display: flex;
+    
+}
+.data-nav a{
+    padding-left: 30px;
+}
+.sec-2 img{
+    width:650px;
+    height: 300px;
+    padding-left: 100px;
+}
+.sec-2 .rowtxt{
+    font-style: italic;
+    font-weight: 400;
+}
+.sec-2 h4{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.sec-2 h4{
+    font-style: oblique;
+}
+.sec-3 {
+    margin-left: 130px;
+    
+
+}
+.sec-3 .rowt{
+    padding-left: 30px;
+}
+
+
+
+
+
+
